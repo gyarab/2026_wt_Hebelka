@@ -1,6 +1,6 @@
 # Monster Energy
 
-![Logo Monster Energy](https://www.vectorlogo.zone/logos/monsterenergy/monsterenergy-icon.svg)
+[![Logo Monster Energy](https://www.vectorlogo.zone/logos/monsterenergy/monsterenergy-icon.svg)](https://www.stickpng.com/img/icons-logos-emojis/product-logos/monster-energy-claw-logo)
 
 ## Psychologie barev v logu
 
